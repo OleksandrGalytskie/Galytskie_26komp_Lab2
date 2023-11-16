@@ -1,0 +1,293 @@
+* {
+    margin: 0px;
+    font-family: Georgia;
+}
+
+h1, p {
+    color: rgb(207, 207, 207);
+}
+
+h1 {
+    padding-top: 120px;
+}
+
+h2 {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.pin {
+    color: #8b8181;
+    margin-bottom: 15px;
+}
+
+.pf {
+    color: #8b8181;
+}
+
+.pinut {
+    color: #8b8181;
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+.poni {
+    color: #8b8181;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.separator {
+    width: auto;
+    height: 4px;
+    background-color: #2d6785;
+}
+
+.header_block {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 125px;
+    background-color: #ffffff;
+}
+
+.sep_1 {
+    position: relative;
+    height: 60px;
+    padding-left: 10px;
+}
+
+.section_h {
+    margin-right: 40px;
+    color: white;
+    transition: all 0.5s ease;
+}
+
+.section_h:hover {
+    color: rgb(139, 167, 183);
+}
+
+.logo {
+    width: auto;
+    justify-self: left;
+    -webkit-text-fill-color: rgb(42, 42, 42);
+    font-size: 48px;
+    margin-left: 25px;
+}
+
+.search {
+    justify-content: center;
+    width: 70px;
+    height: 35px;
+    background-color: #2d6785;
+    -webkit-text-fill-color: white;
+    margin: 25px;
+}
+
+form {
+    position: relative;
+    width: 320px;
+    margin: 0 auto;
+}
+
+.d1 input {
+    width: 250px;
+    height: 35px;
+    padding-left: 10px;
+    outline: none;
+    color: #9E9C9C;
+}
+
+.d1 button {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 70px;
+    height: 41px;
+    border: none;
+    background-color: #2d6785;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.d1 {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.block {
+    position: relative;
+    margin: 40px 10px;
+    width: auto;
+    height: 400px;
+    background-color: rgb(97, 97, 97);
+    z-index: 1;
+}
+
+.main {
+    width: 980px;
+    margin: auto;
+}
+
+img.background {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.zag {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.539);
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Zap {
+    padding: 30px;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.p1 {
+    text-align: end;
+    padding-top: 30px;
+}
+
+.card {
+    margin: 0px 10px;
+    width: auto;
+}
+
+.first {
+    margin-bottom: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dloc {
+    width: 225px;
+    height: auto;
+}
+
+.popi {
+    width: 225px;
+    height: 180px;
+    background-color: black;
+}
+
+.pog {
+    width: 80px;
+    height: 80px;
+    border-style: double;
+    margin-right: 10px;
+    border-width: 10px;
+    border-color: rgb(221, 208, 208);
+}
+
+.rok {
+    padding-top: 10px;
+    padding-bottom: 36px;
+}
+
+.rok2 {
+    padding-top: 10px;
+    padding-bottom: 36px;
+}
+
+.rost {
+    padding-top: 10px;
+    padding-bottom: 36px;
+    display: flex;
+    flex-direction: column;
+}
+
+.car {
+    margin: 0px 5px;
+    width: auto;
+    height: 355px;
+    background-color: rgb(153, 34, 34);
+}
+
+.sep {
+    width: auto;
+    height: 2px;
+    background-color: #cccfd2;
+    margin-bottom: 25px;
+}
+
+.clock {
+    width: 300px;
+    height: auto;
+}
+
+.kort {
+    width: 300px;
+    height: auto;
+    display: flex;
+}
+
+.pig {
+    width: 220px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.soup {
+    width: 91%;
+    height: 1px;
+    background-color: #cccfd2;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+iframe {
+    width: 300px;
+    height: 235px;
+    margin-bottom: 15px;
+}
+
+footer {
+    display: flex;
+    background-color: #cccfd2;
+    height: 62px;
+    justify-content: space-between;
+}
+
+.last {
+    width: auto;
+    display: flex;
+}
+
+.d2 {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
